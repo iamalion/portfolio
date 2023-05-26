@@ -2,6 +2,7 @@ body {
     background-color: #2A707A;
     font-size: 100%;
     color: #2C232C;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 #header {
     border: 2px solid #2C232C;
@@ -10,7 +11,6 @@ body {
 }
 
 #header h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 5em;
     
@@ -44,27 +44,31 @@ img {
     font-size: 1.5em;
 
 }
-
 .projects, .column {
     float: left;
 }
 
 .projects {
     border: 2px solid #2C232C;
-    padding: 30px;
-    margin: 30px;
+    padding: 50px;
     background-color: #F4C263;
+    margin: 30px;
 
 }
 
 .extra {
-    border: 2px solid purple;
-    float: left;
+    border: 2px solid #2C232C;
+    margin: 30px;
+    display: table;
+    padding: 50px;
+    background-color: #98BBBE;
 }
 .bottom {
     border: 2px solid white;
-    float: left;
-    width: 300px;
+    width: 500px;
+    margin: 30px;
+    display: table-cell;
+    padding: 50px;
 }
 
 .fancy {
@@ -72,6 +76,10 @@ img {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     letter-spacing: 2px;;
+}
+
+.ul {
+    
 }
 
 
