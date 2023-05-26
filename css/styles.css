@@ -14,7 +14,7 @@ body {
 }
 
 .aboutme {
-    border: 2px solid #2C232C;
+    border: 2px solid yellow;
 }
 
 img {
@@ -29,15 +29,25 @@ img {
     font-size: 1.5em;
 }
 
-img, .projectlist, .column {
+img, .projects, .column {
     float: left;
 }
+.projectsheader {
+    border: 2px solid red;
 
-.projects {
-    width: 100%;
 }
-.projectlist {
-    width: 300px;
+.projects {
+    border: 2px solid green;
+    padding: 30px;
+}
+
+.extra {
+    border: 2px solid purple;
+    float: left;
+}
+.bottom {
+    border: 2px solid white;
+    float: left;
 }
 
 
