@@ -2,7 +2,7 @@
 
 #### By _**Lindsay Warr**_
 
-#### An intro portfolio
+#### An intro portfolio. Link to GitHub page found here: https://iamalion.github.io/portfolio/
 
 ## Technologies Used
 
