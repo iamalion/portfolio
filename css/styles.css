@@ -37,7 +37,8 @@ img {
 }
 
 .aboutme h1 {
-    font-size: 2.5em;
+    font-size: 3em;
+    text-align: center;
 }
 .aboutme p {
     font-style: italic;
@@ -55,7 +56,29 @@ img {
     margin: 30px;
 
 }
+.projects h2 {
+    text-align: center;
+    font-size: 3em;
+}
 
+.projects p {
+    font-size: 1.5em;
+}
+.projects h3 {
+    text-align: center;
+    font-size: 2em;
+}
+
+a {
+    color:#2A707A;
+
+}
+a:hover {
+    color:#D16D74;
+}
+a:visited {
+    color:#98BBBE;
+}
 .extra {
     border: 2px solid #2C232C;
     margin: 30px;
@@ -64,7 +87,7 @@ img {
     background-color: #98BBBE;
 }
 .bottom {
-    border: 2px solid white;
+    border: 2px solid #F6F9F9;
     width: 500px;
     margin: 30px;
     display: table-cell;
@@ -79,7 +102,13 @@ img {
 }
 
 .ul {
-    
+    list-style-type:square;
+    font-size: 1.5em;
+    background-color: #F6F9F9;
+}
+.ol {
+    font-size: 1.5em;
+    background-color: #F6F9F9;
 }
 
 

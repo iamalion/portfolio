@@ -20,8 +20,11 @@ This is the culmunation of Week One at Epicodus. I have incorporated HTML and CS
 
 ## Known Bugs
 
-* anchor tags do not work for two links
+* spacing between About Me and My Projects sections
+* FIXED ~~anchor tags do not work for two links~~
 * responsive design has not been incorporated
+* FIXED ~~li icon not appearing under hobbies~~
+* Link to resort website is broken
 
 ## License
 
