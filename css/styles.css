@@ -39,6 +39,8 @@ img, .projects, .column {
 .projects {
     border: 2px solid green;
     padding: 30px;
+    margin: 30px;
+
 }
 
 .extra {
@@ -48,8 +50,15 @@ img, .projects, .column {
 .bottom {
     border: 2px solid white;
     float: left;
+    width: 300px;
 }
 
+.fancy {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;;
+}
 
 
 
