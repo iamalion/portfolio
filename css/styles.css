@@ -19,23 +19,27 @@ body {
 
 img {
     width: 20%;
-    
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 .aboutme h1 {
     font-size: 2.5em;
 }
 .aboutme p {
     font-style: italic;
     font-size: 1.5em;
+
 }
 
-img, .projects, .column {
+.projects, .column {
     float: left;
 }
-.projectsheader {
-    border: 2px solid red;
 
-}
 .projects {
     border: 2px solid green;
     padding: 30px;
