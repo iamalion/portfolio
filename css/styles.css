@@ -1,20 +1,29 @@
 body {
-    background-color: #E0B459;
+    background-color: #2A707A;
     font-size: 100%;
     color: #2C232C;
 }
 #header {
     border: 2px solid #2C232C;
+    margin: 30px;
+    background-color: #98BBBE;
 }
 
 #header h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     font-size: 5em;
+    
+}
+#header p {
+    text-align: center;
 }
 
 .aboutme {
-    border: 2px solid yellow;
+    border: 2px solid #2C232C;
+    background-color: #D16D74;
+    padding: 50px;
+    margin: 30px;
 }
 
 img {
@@ -41,9 +50,10 @@ img {
 }
 
 .projects {
-    border: 2px solid green;
+    border: 2px solid #2C232C;
     padding: 30px;
     margin: 30px;
+    background-color: #F4C263;
 
 }
 
