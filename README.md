@@ -24,7 +24,7 @@ This is the culmunation of Week One at Epicodus. I have incorporated HTML and CS
 * FIXED ~~anchor tags do not work for two links~~
 * responsive design has not been incorporated
 * FIXED ~~li icon not appearing under hobbies~~
-* Link to resort website is broken
+* FIXED ~~Link to resort website is broken~~
 
 ## License
 
