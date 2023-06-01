@@ -16,7 +16,11 @@ This is the culmunation of Week One at Epicodus. I have incorporated HTML and CS
 
 ## Setup/Installation Requirements
 
-* 
+* Clone this repository
+* Open in VS Code 
+* Use "Go Live" to see in your browser
+
+_Alternatively, visit the static page at https://iamalion.github.io/portfolio/_
 
 ## Known Bugs
 
